@@ -1,5 +1,5 @@
-# efficient_algorithm
-Assignments on Efficient Algorithm
+# Assignments on Efficient Algorithm
+
 1.  MST: Prim's and Kruskal
 2.  Shortest Path: Djikstra and Bellman Ford
 3.  Flow: Dimic and Flow Relabel
